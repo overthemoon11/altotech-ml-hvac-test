@@ -9,6 +9,8 @@ results/models/
 
 # Over GitHub's 100 MB limit: keep locally or share outside git
 latest_data/HistoricalAirTemperatureacrossSingapore.zip
+random_forest_model.pkl
+visualizations/**/models/*random_forest*.pkl
 
 # Office lock files
 ~$*

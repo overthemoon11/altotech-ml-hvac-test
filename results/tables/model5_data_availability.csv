@@ -1,9 +1,0 @@
-measurement,CSIT tags,max samples,class
-CHW pump power (per pump),"CHWP1.kW, CHWP2.kW, CHWP3.kW",5870,trend
-CW pump power (per pump),"CWP1.kWatt, CWP2.kWatt, CWP3.kWatt",25402,trend
-tower fan power (per cell),"CT1.kWatt, CT2.kWatt, CT3.kWatt",9267,trend
-pump / fan power (aggregate),"CHWP.PMKWtotal, CWP.PMKWtotal, CT.PMKWtotal",4686,trend
-pump VSD speed feedback,"CWP1.VSDFdk, CWP1.VSDFbk, CWP2.VSDFbk, CWP3.VSDFbk, CHWP1.VSDFdk, CHWP2.VSDFdk, CHWP3.VSDFdk",66,"empty, snapshot"
-tower fan speed feedback,"CT1.A_Fan_ECFbk, CT1.B_Fan_ECFbk, CT1.C_Fan_ECFbk, CT2.A_Fan_ECFbk, CT2.B_Fan_ECFbk, CT2.C_Fan_ECFbk, CT3.A_Fan_ECFbk, CT3.B_Fan_ECFbk, CT3.C_Fan_ECFbk",66,snapshot
-chilled water flow,"FLOTECH.CH1_CHW_Flow, FLOTECH.CH2_CHW_Flow, FLOTECH.CH3_CHW_Flow, CH1.CHW_Flow, CH2.CHW_Flow",66,snapshot
-condenser water flow,"FLOTECH.CH1_CW_Flow, FLOTECH.CH2_CW_Flow, FLOTECH.CH3_CW_Flow, CH1.CW_Flow, CH2.CW_Flow",66,snapshot

@@ -1,6 +1,0 @@
-measurement,CSIT tags,max samples,class
-tower leaving water temperature,"CT1.SupTemp, CT2.SupTemp, CT3.SupTemp",66,snapshot
-tower return (entering) temperature,"CT1.RetTemp, CT2.RetTemp, CT3.RetTemp",66,snapshot
-tower fan speed feedback,"CT1.A_Fan_ECFbk, CT1.B_Fan_ECFbk, CT1.C_Fan_ECFbk, CT2.A_Fan_ECFbk, CT2.B_Fan_ECFbk, CT2.C_Fan_ECFbk, CT3.A_Fan_ECFbk, CT3.B_Fan_ECFbk, CT3.C_Fan_ECFbk",66,snapshot
-condenser water flow,"FLOTECH.CH1_CW_Flow, FLOTECH.CH2_CW_Flow, FLOTECH.CH3_CW_Flow, CH1.CW_Flow, CH2.CW_Flow",66,snapshot
-outdoor wet-bulb,OA_WetBulbT.WetBulb_Temp,66,snapshot

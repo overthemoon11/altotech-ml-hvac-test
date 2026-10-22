@@ -1,7 +1,0 @@
-task,metric,limit,meaning
-Model 1: cooling load,MAPE_%,5.0,mean absolute % error of the next-hour load ≤ 5 %
-Model 2: weather,MAE,1.0,mean absolute error of the next-hour dry-bulb ≤ 1 °C
-Model 3: chiller power,MAPE_%,3.0,mean absolute % error of chiller kW ≤ 3 %
-Model 4: cooling tower,MAE,0.3,mean absolute error of tower leaving water ≤ 0.3 °C
-Model 5: pump and fan power,MAPE_%,3.0,mean absolute % error of pump / fan kW ≤ 3 %
-Model 6: energy baseline,|NMBE|_%,5.0,total energy over the test period within ± 5 %
